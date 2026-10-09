@@ -54,7 +54,7 @@ export default function AboutPage() {
     <>
       <section className="about-hero">
         <Image
-          src="/images/sognefjord.jpg"
+          src="/images/hardangerfjord.jpg"
           alt="A quiet Norwegian fjord framed by steep green mountains"
           fill
           priority
