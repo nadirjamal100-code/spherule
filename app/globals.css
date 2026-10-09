@@ -321,6 +321,7 @@ h2 { font-size: clamp(28px, 2.8vw, 40px); line-height: 1.2; font-weight: 400; le
   .footer__brand ul { flex-wrap: wrap; gap: 12px 24px; }
   .footer__form { width: 100%; }
   .footer__field { flex-direction: column; }
+  .footer__field input { flex: none; width: 100%; height: 44px; }
   .footer__field .btn { width: 100%; }
   .footer__bottom { flex-direction: column; margin-top: 32px; }
 }
